@@ -1,0 +1,38 @@
+   11  composer
+   12  sudo apt install composer
+   21  composer -v
+   54  composer global require laravel/installer
+   55  composer fund
+   59  sudo composer global require laravel/installer
+   64  composer global require laravel/installer
+   65  composer fund
+   70  composer fund
+   71  cat > composer.json
+   72  cat composer.json
+   73  composer fund
+   78  composer global require laravel/installer
+   98  composer update
+  108  composer updat
+  116  composer updat
+  118  composer updat
+  119  cat composer.jaon
+  120  cat composer.json
+  136  composer update
+  142  curl -s https://getcomposer.org/installer | php
+  143  sudo mv composer.phar /usr/local/bin/composer
+  144  composer
+  148  composer global require laravel/installler
+  149  composer global require laravel/installer
+  177  composer update
+  184  composer update
+  189  composer update
+  198  composer update
+  200  composer update
+  276  composer require laravel/ui
+  278  composer update
+  468  composer require intervention/image
+  626  composer require laravel/telescope
+  725  history | grep composer
+  732  composer updae
+  733  composer update
+  737  history | grep composer > composer_commands.txt
